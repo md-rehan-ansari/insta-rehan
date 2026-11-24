@@ -1,3 +1,2 @@
 
-This is my first github practice
-Author-Rehan
+This is my first github practice. Author-Rehan ansari
